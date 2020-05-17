@@ -1,13 +1,13 @@
 # Tetris
 Tetris is a tile-matching puzzle game.
 
-#Language
+# Language
 Python
 
-#Library
+# Library
 Pygame
 
-#How to run the game
+# How to run the game
 1 - Open the Main.py
 2 - Run
 
