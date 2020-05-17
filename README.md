@@ -8,7 +8,10 @@ Python
 Pygame
 
 # How to run the game
-1 - Open the Main.py
-2 - Run
+- Open the Main.py
+- Run
+
+# Code
+[Tetris Code](https://github.com/shubham-khantwal/Tetris/tree/master/Tetris)
 
 
