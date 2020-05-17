@@ -7,9 +7,12 @@ Python
 # Library
 Pygame
 
-# How to run the game
-- Open the Main.py
-- Run
+# To run the code
+- Go to Tetris Folder
+- open Main.py file
+- Run the Code
+
+NOTE :- Make sure you have all dependencies installed
 
 # Code
 [Tetris Code](https://github.com/shubham-khantwal/Tetris/tree/master/Tetris)
